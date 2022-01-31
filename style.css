@@ -163,11 +163,33 @@ h2 {
     border-radius: 5px;
     border-style: ridge;
     position: absolute;
-    background-color: rgb(9, 247, 247);
-    color: rgb(10, 178, 240);
+    background: rgb(9, 247, 247);
+    color: rgb(2, 33, 77);
     right: 20%;
     line-height: 10px;
     padding-left: 2%;
     padding-right: 2%;
 }
 
+.divD {
+    position: absolute;
+    color: rgb(2, 33, 77);
+    margin: 20%;
+    left: 5%;
+}
+
+.divE {
+    position: absolute;
+    color: rgb(2, 33, 77);
+    margin: 20%;
+    right: 15%;
+
+}
+
+.divF {
+    position: absolute;
+    color: rgb(2, 33, 77);
+    margin: 23%;
+    margin-right: 15%;
+    right: 15px;
+}
