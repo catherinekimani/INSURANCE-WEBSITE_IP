@@ -207,7 +207,51 @@ h2 {
 
 .div1 {
     position: absolute;
-    border: 1px solid black;
-    justify-content: left;
+    border: 1px solid rgba(128, 128, 128, 0.986);
+    border-radius: 5px;
+    background: white;
+    text-align: center;
+    color: rgb(0, 40, 95);
+    width: 15%;
+    height: 30vh;
+    margin: 10%;
+    padding-top: 3%;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    left: 13%;
+}
 
+.div2 {
+    border: 1px solid grey;
+    border-radius: 5px;
+    background: white;
+    position: absolute;
+    margin: 10%;
+    text-align: center;
+    color: rgb(0, 40, 95);
+    width: 15%;
+    height: 30vh;
+    right: 27%;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.div3 {
+    border: 1px solid grey;
+    border-radius: 5px;
+    background: white;
+    position: absolute;
+    text-align: center;
+    color: rgb(0, 40, 95);
+    width: 15%;
+    height: 30vh;
+    margin: 10%;
+    right: 5%;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
 }
