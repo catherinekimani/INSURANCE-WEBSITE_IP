@@ -204,3 +204,10 @@ h2 {
 .industry {
     color: rgb(2, 33, 77);
 }
+
+.div1 {
+    position: absolute;
+    border: 1px solid black;
+    justify-content: left;
+
+}
