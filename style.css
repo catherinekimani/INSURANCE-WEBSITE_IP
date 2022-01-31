@@ -122,19 +122,3 @@ h2 {
     background-color: white;
     height: 20vh;
 }
-
-.box1 {
-    border: 1px solid black;
-    height: 30vh;
-    width: 20%;
-    left: 10%;
-    top: 1.5vh;
-    position: absolute;
-    border-radius: 5px;
-    color: blue;
-    text-align: center;
-}
-
-box1, img {
-    margin-top: 5%;
-}
