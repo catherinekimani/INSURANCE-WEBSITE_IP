@@ -315,7 +315,8 @@ h2 {
     border: 2px solid white;
     width: 70%;
     margin: 0%;
-    margin-right: 10%
+    margin-right: 10%;
+    right: 15px;
 }
 
 .btn {
@@ -324,10 +325,26 @@ h2 {
     right: 50px;
 }
 
-button, span {
+.button, span :first-child {
     border: 8px solid rgb(17, 166, 252);
     border-radius: 5px;
     font-size: 15px;
     color: white;
     background: rgb(17, 166, 252);
+}
+
+.pricing {
+    position: absolute;
+    text-align: center;
+    color: rgb(2, 33, 77);
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10%;
+}
+
+.problems {
+    position: absolute;
+    text-align: center;
+    color: rgb(35, 59, 94);
+    margin: 15%;
 }
