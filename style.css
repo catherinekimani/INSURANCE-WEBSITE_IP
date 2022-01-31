@@ -134,9 +134,40 @@ h2 {
 .divA {
     border: 1px solid gray;
     border-radius: 5px;
-    width: 15%;
-    height:30vh;
+    border-style: ridge;
+    width: 14%;
+    height:17vh;
     position: absolute;
-    color: rgba(2, 33, 77);
+    color: rgb(2, 33, 77);
     left: 20%;
+    padding: 5%;
+    padding-top: 0%;
+    padding-left: 2%;
+    padding-right: 2%;
+    line-height: 10px;
 }
+
+.divB {
+    border: 1px solid gray;
+    border-style: ridge;
+    border-radius: 5px;
+    position: absolute;
+    color: rgb(2, 33, 77);
+    line-height: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.divC {
+    border: 1px solid gray;
+    border-radius: 5px;
+    border-style: ridge;
+    position: absolute;
+    background-color: rgb(9, 247, 247);
+    color: rgb(10, 178, 240);
+    right: 20%;
+    line-height: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
