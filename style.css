@@ -348,3 +348,24 @@ h2 {
     color: rgb(35, 59, 94);
     margin: 15%;
 }
+
+.sectionD {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.first {
+position: absolute;
+border: 2px solid rgb(82, 183, 190);
+border-radius: 5px;
+width: 25%;
+height: 70vh;
+left: 15%;
+color: rgb(2, 33, 77);
+text-align: center;
+padding-top: 10px;
+
+}
