@@ -193,3 +193,14 @@ h2 {
     margin-right: 15%;
     right: 15px;
 }
+
+.sectionB {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.industry {
+    color: rgb(2, 33, 77);
+}
