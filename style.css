@@ -374,7 +374,7 @@ padding-top: 10px;
     position: absolute;
     border: 2px solid rgb(82, 183, 190);
     border-radius: 5px;
-    background: rgba(0, 13, 32, 0.952);
+    background: rgba(0, 13, 32, 0.89);
     color: white;
     text-align: center;
     padding-top: 2%;
@@ -407,8 +407,8 @@ padding-top: 10px;
 
 .branches {
     position: absolute;
-    border: 1px solid rgba(0, 13, 32, 0.952);
-    background: rgba(0, 13, 32, 0.952);
+    border: 1px solid rgba(0, 13, 32, 0.801);
+    background: rgba(0, 13, 32, 0.89);
     width: 80%;
     height: 70vh;
     left: 5%;
