@@ -465,5 +465,40 @@ padding-top: 10px;
 
 .contact {
     margin: 10%;
-    margin-left: 25%;
+    margin-left: 10%;
+}
+
+.company {
+    position: absolute;
+    color: rgb(2, 33, 77);
+    margin: 15%;
+    left: 20px;
+}
+
+.Legal {
+    position: absolute;
+    color: rgb(2, 33, 77);
+    margin: 15%;
+    left: 15%;
+}
+
+.features {
+    position: absolute;
+    color: rgb(2, 33, 77);
+    margin: 15%;
+    margin-right: 20%;
+}
+
+.resources {
+    position: absolute;
+    color: rgb(2, 33, 77);
+    margin: 15%;
+    right: 20%;
+}
+
+.Get {
+    position: absolute;
+    color: rgb(2, 33, 77);
+    margin: 15%;
+    right: 20px;
 }
