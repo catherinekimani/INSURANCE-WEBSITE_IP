@@ -502,3 +502,11 @@ padding-top: 10px;
     margin: 15%;
     right: 20px;
 }
+
+.figma {
+    position: absolute;
+    margin: 35%;
+    text-align: center;
+    color: rgb(2, 33, 77);
+    font-size: 15px;
+}
