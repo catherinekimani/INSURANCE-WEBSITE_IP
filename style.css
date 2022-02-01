@@ -481,7 +481,7 @@ padding-right: 6px;
 
 .appointment {
     position: absolute;
-    border: 1px solid white;
+    border: 1px solid rgb(250, 244, 244);
     background: white;
     color: rgb(2, 33, 77);
     text-align: center;
@@ -516,9 +516,13 @@ padding-right: 6px;
     margin: 10%;
 }
 
-.contact {
+.btn{
+    position: absolute;
+    border-radius: 5px;
+    background-color: rgba(0, 178, 228, 0.664);
+    color: white;
     margin: 10%;
-    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .company {
