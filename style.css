@@ -361,11 +361,25 @@ h2 {
 position: absolute;
 border: 2px solid rgb(82, 183, 190);
 border-radius: 5px;
-width: 25%;
+width: 20%;
 height: 70vh;
 left: 15%;
 color: rgb(2, 33, 77);
 text-align: center;
 padding-top: 10px;
+}
+
+.second {
+    position: absolute;
+    border: 2px solid rgb(82, 183, 190);
+    border-radius: 5px;
+    background: rgb(2, 33, 77);
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    width: 20%;
+    height: 72vh;
+    margin-bottom: 25%;
+    margin-right: 9%;
 
 }
