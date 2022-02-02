@@ -39,7 +39,7 @@
 div, a {
     text-decoration: none;
     /* margin-top: 0px; */
-    color: black;
+    color: white;
     margin: 2px;
 }
 
@@ -371,11 +371,6 @@ padding-top: 10px;
 padding-right: 6px;
 }
 
-<<<<<<< HEAD
-box1, img {
-    margin-top: 5%;
-} 
-=======
 .product {
     position: absolute;
     margin: 10%;
@@ -572,4 +567,3 @@ box1, img {
     color: rgb(2, 33, 77);
     font-size: 15px;
 }
->>>>>>> master
