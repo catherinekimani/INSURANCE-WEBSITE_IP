@@ -458,6 +458,14 @@ padding-right: 6px;
     height: 100vh;
 }
 
+.pingwing {
+    position: absolute;
+    /* background: rgb(2, 33, 77); */
+    top: 10%;
+    right: 20%;
+    left: 60%;
+}
+
 .branches {
     position: absolute;
     border: 1px solid rgba(0, 13, 32, 0.801);
